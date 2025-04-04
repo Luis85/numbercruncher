@@ -1,15 +1,18 @@
 ---
 name: The Numbercruncher
-version: 0.0.1
+version: 0.0.1e
 release: mvp
 ---
 
 # 🎃The Numbercruncher
 
 #experimental #proofofconcept #poc
-
 An Obsidian Plugin, supporting the product development & management process e2e. 
 Establishing a unified content repository for product teams.
+
+---
+
+![alt text](image.png)
 
 ---
 
@@ -33,6 +36,8 @@ Establishing a unified content repository for product teams.
 - [ ] Maybe time for tests
 - [ ] Define contribution & publishing processes
 - [ ] Publish Codebase for Contributions
+- [ ] Compliance with Obsidian Plugin conventions
+- [ ] Publish on Obsidian Marketplace
 
 ---
 
@@ -47,3 +52,30 @@ Establishing a unified content repository for product teams.
 ## Getting started
 
 - @TODO
+
+---
+
+## Development Process
+
+
+---
+
+### Discovery
+
+
+---
+
+### Refinement
+
+
+---
+
+
+### Planning
+
+
+---
+
+### Development
+
+- Plugin Update via git
