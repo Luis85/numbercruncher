@@ -7,6 +7,7 @@ release: mvp
 # 🎃The Numbercruncher
 
 #experimental #proofofconcept #poc
+
 An Obsidian Plugin, supporting the product development & management process e2e. 
 Establishing a unified content repository for product teams.
 
@@ -20,6 +21,15 @@ Establishing a unified content repository for product teams.
 
 - breaking changes will hapen on a weekly basis
 - not recommended for production
+
+---
+
+## Feedback
+
+For any issues, bugs or feedback, please use the following links:
+
+- Issue Tracker: https://github.com/Luis85/numbercruncher/issues
+- Discussions: https://github.com/Luis85/numbercruncher/discussions
 
 ---
 
@@ -55,24 +65,34 @@ Establishing a unified content repository for product teams.
 
 ---
 
+## Status Quo
+
+![alt text](image-1.png)
+
+---
+
 ## Development Process
 
+- trying to follow a lean and agile development process
 
 ---
 
 ### Discovery
 
+Discovering improved solutions based on the provided feedback
 
 ---
 
 ### Refinement
 
+Scope of the next release
 
 ---
 
 
 ### Planning
 
+Plan for the next increment
 
 ---
 
