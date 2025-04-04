@@ -41,3 +41,9 @@ Establishing a unified content repository for product teams.
 - [ ] Requirements Engineering Essentials
 - [ ] Project Management Essentials
 - [ ] Integrates well with the M365 eco-system
+
+--- 
+
+## Getting started
+
+- @TODO
