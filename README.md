@@ -1,12 +1,12 @@
 ---
 name: The Numbercruncher
-version: 0.0.1e
+version: 0.0.1
 release: mvp
 ---
 
 # 🎃The Numbercruncher
 
-#experimental
+#experimental #proofofconcept #poc
 
 An Obsidian Plugin, supporting the product development & management process e2e. 
 Establishing a unified content repository for product teams.
