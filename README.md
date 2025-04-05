@@ -13,7 +13,7 @@ Establishing a unified content repository for product teams.
 
 ---
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 ---
 
@@ -67,7 +67,7 @@ For any issues, bugs or feedback, please use the following links:
 
 ## Status Quo
 
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 ---
 
