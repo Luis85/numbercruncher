@@ -1,6 +1,6 @@
 ---
 name: The Numbercruncher
-version: 0.0.1e
+version: 0.0.1ea
 release: mvp
 ---
 
